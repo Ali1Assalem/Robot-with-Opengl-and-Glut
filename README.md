@@ -1,6 +1,6 @@
 # Robot-with-Opengl-and-Glut
 
-c  -> Lighting
+c  -> Lighting /n
 r  -> right arm
 l  -> left arm
 d  -> left leg
